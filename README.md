@@ -2,7 +2,7 @@
 
 ## Overview
 
-This application shows how to use GY-271 (QMC5883L) magnetometer to verify of door lock state.
+This application shows how to use GY-271 (QMC5883L) magnetometer to verify door lock state.
 
 ## How to install this app
 
